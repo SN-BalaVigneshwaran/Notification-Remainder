@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Notify Me",
+			"path": "../../../Notify Me"
+		},
+		{
+			"name": "static",
+			"path": "../static"
+		},
+		{
+			"name": "templates",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Notify Me"
+	}
+}
